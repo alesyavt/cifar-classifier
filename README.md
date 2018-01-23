@@ -1,2 +1,2 @@
 # cifar-classifier
-CIFAR 100 dataset classifier
+See cifar-classifier-report.pdf for project details
